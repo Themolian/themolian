@@ -14,11 +14,17 @@ My specialties generally lie in the following areas:
 ## The arrows in my quiver 🏹 (Tech Stack)
 
 User Interactivity: JavaScript, Vue, React, Svelte
+
 Database Interactivity: PHP, Laravel, MySQL, PostgreSQL, Tessitura, Nuxt, NodeJS
+
 Templating: Twig, Nunjucks, Liquid, JSX, HTML, PHP templating in WordPress
+
 CMS: CraftCMS, WordPress (and WooCommerce), Directus, Drupal, SanityCMS
+
 Payment Gateways: Stripe, SumUp,
+
 Automation: Bash
+
 Dev Tools: DDEV, MAMP, WAMP, Docker, VSCode (My IDE of choice)
 
 

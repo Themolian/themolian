@@ -25,7 +25,7 @@ My specialties generally lie in the following areas:
 
 **Automation**: Bash
 
-**Dev Tools**: DDEV, MAMP, WAMP, Docker, VSCode (My IDE of choice), Deployer 7
+**Dev Tools**: DDEV, MAMP, WAMP, Docker, VSCode (My IDE of choice), Deployer 7, Git
 
 
 

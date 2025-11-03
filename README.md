@@ -9,6 +9,7 @@ My specialties generally lie in the following areas:
 - CMS Content Modelling / Template Architecture - Building webpages that follow a logical and easy-to-read structure on the front-end, and editing experiences that are intuitive and easy to grasp.
 - Data Migration - Translating data between different CMSes
 - Building accessible websites, maintaining semantic HTML and optimizing the user experience for every site visitor.
+  
 
 ## The arrows in my quiver 🏹 (Tech Stack)
 
@@ -20,14 +21,17 @@ Payment Gateways: Stripe, SumUp,
 Automation: Bash
 Dev Tools: DDEV, MAMP, WAMP, Docker, VSCode (My IDE of choice)
 
-## Host with the Most *(varied smatter of experience)
 
-Over the course of my career I've dipped my toes into hosting 
+## Hosting with the Mosting 🌐
+
+Over the course of my career I've dipped my toes into hosting, mostly surrounding migrating websites from one host to another, and migrating emails from generic hosting emails to Google Workspace.
+
 
 ## Toolbox 🧰 (Tools I've worked with)
 
 CRMs: Basecamp, JIRA, Trello, Monday.com, Salesforce
 Comms: Slack, Discord
+
 
 ## On the OutsIDE (What I get up to outside of work)
 
